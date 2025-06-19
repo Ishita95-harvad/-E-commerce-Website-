@@ -1,0 +1,9 @@
+| Feature               | Tech Used                  |
+| --------------------- | -------------------------- |
+| Product Listings      | Axios, useEffect, useState |
+| Product Search/Filter | useState, Array Filters    |
+| Cart                  | Redux                      |
+| User Authentication   | Firebase/Auth0 (Optional)  |
+| Admin Dashboard       | React + Protected Routes   |
+| Payment Integration   | Razorpay / Stripe          |
+| Wishlist & Orders     | LocalStorage or Firebase   |
