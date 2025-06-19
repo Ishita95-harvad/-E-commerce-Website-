@@ -1,0 +1,12 @@
+ecommerce-app/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── redux/
+│   ├── App.js
+│   ├── index.js
+│   └── styles/
+├── .env
+├── package.json
